@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/hello/","title":"Index","tags":["gardenEntry"],"created":"2023-12-31T10:15:44.243-05:00","updated":"2024-01-12T22:51:04.422-05:00"}
+{"dg-publish":true,"permalink":"/hello/","title":"Leilei's Digital Garden","tags":["gardenEntry"],"created":"2023-12-31T10:15:44.243-05:00","updated":"2024-01-12T23:26:45.012-05:00"}
 ---
 
 
@@ -12,8 +12,8 @@ I am Leilei, and I am an tactile artist and filmmaker. This is my blog, reading 
 
 You can find the index on the side bar
 
-[my artist map, mostly visual arts](https://www.leileixia.online/artist-map)
-
-[My reading notes (to Notion Page)](https://leileixia.notion.site/9894276f85b544139940a94237d31b7b?v=ad681b862b034f96b026a93204b1d508&pvs=4) 
+[[Dairy/All Dairies\|Some of my diaries ]]
 
 [[reference-name/Artists&Scholars\|Artists&Scholars]]
+
+[My reading notes (to Notion Page)](https://leileixia.notion.site/9894276f85b544139940a94237d31b7b?v=ad681b862b034f96b026a93204b1d508&pvs=4) 
