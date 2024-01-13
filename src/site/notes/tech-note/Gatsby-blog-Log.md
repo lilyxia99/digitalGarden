@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-note/gatsby-blog-log/","title":"搭建gatsby 博客","tags":["tech-notes"],"created":"2024-01-11T11:38:44.573-05:00","updated":"2024-01-12T23:05:04.805-05:00"}
+{"dg-publish":true,"permalink":"/tech-note/gatsby-blog-log/","title":"搭建gatsby 博客","tags":["tech-notes"],"created":"2024-01-11T11:38:44.573-05:00","updated":"2024-01-12T23:09:46.906-05:00"}
 ---
 
 ## 研究pop up的部分可不可以预览久一点
@@ -13,11 +13,6 @@
 1. 悬浮久一点
 2. overflow hidden
 
-另一个方案就是我使用obsidian的digital garden，它的优点就是有一个现成的graph view在底下，虽然不知道这玩意儿有什么卵用。
-
-但是问题是，我不确定它能不能和react适配。这个需要做调研
-
-如果是一个对比的话就是
 
 | Gatsby | digital garden with 11ty |
 | ---- | ---- |
