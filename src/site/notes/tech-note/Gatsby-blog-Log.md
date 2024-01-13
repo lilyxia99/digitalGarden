@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/tech-note/gatsby-blog-log/","title":"搭建gatsby 博客","tags":["tech-notes"]}
+{"dg-publish":true,"permalink":"/tech-note/gatsby-blog-log/","title":"搭建gatsby 博客","tags":["tech-notes"],"created":"2024-01-11T11:38:44.573-05:00","updated":"2024-01-12T23:05:04.805-05:00"}
 ---
 
 ## 研究pop up的部分可不可以预览久一点
@@ -27,6 +27,8 @@
 | 💚 react 框架，可以用reactflow | 🚫 不确定能不能用react flow，而且不知道做单个page怎么样 |
 | 🚫需要自己造 | 💚 float window可以scroll！ |
 | 🚫需要自己造 | 💚 有tagview |
+
+在跑步的时候突然想到，如果digital garden 是用personal access token (我们结下来就视频PAT吧）来单独上传vault内容，那么理论上我也可以用 PAT 
 
 ## 创建艺术家地图
 
