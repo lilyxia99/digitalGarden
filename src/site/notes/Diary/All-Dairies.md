@@ -1,36 +1,16 @@
 ---
-{"dg-publish":true,"permalink":"/diary/all-dairies/","created":"2024-01-12T11:18:11.147-05:00","updated":"2024-01-12T11:46:30.515-05:00"}
+{"dg-publish":true,"permalink":"/diary/all-dairies/","created":"2024-01-12T11:18:11.147-05:00","updated":"2024-01-12T23:16:10.444-05:00"}
 ---
 
 
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/diary/2024-01-12/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-今天不能再拖延了。该工作就好好开始工作。关于艺术家地图这件事……就先用现有顶一顶吧！
-
-听这个album！好不错
-
-[experimental Jazz](https://www.youtube.com/watch?v=ZwQwXlQyha8)
-
-[[artists/music/Alice Coltrane\|Alice Coltrane]]
-
-唉，今天终于又开始工作合同的事情了，感觉之前真的是好浪费时间。明明自己的毕设迫在眉睫还去搞网站的破事。其实就是在逃避嘛！果然开始工作的最关键因素就是开始工作。
-
-和院长一起看了《杨之后》真的好烂！没搞懂看了个啥
-
-
-</div></div>
-
+![[2024-01-12 1\|2024-01-12 1]]
 
 <div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/diary/2024-01-11/" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
 
 
 
 
+# 2024-01-11
 
 Jarret 找人来帮忙看了一下房间……没有发现BBs
 
@@ -48,8 +28,9 @@ Jarret 找人来帮忙看了一下房间……没有发现BBs
 
 
 
+# 2024-01-10
 
-
+和Malyatte 开会，看了医生，写了教学申请， pretty much that's it
 
 </div></div>
 
