@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/diary/all-dairies/","created":"2024-01-12T11:18:11.147-05:00","updated":"2024-01-12T11:46:30.515-05:00"}
+{"dg-publish":true,"permalink":"/diary/all-dairies/"}
 ---
 
 
@@ -19,6 +19,9 @@
 [[artists/music/Alice Coltrane\|Alice Coltrane]]
 
 唉，今天终于又开始工作合同的事情了，感觉之前真的是好浪费时间。明明自己的毕设迫在眉睫还去搞网站的破事。其实就是在逃避嘛！果然开始工作的最关键因素就是开始工作。
+
+和院长一起看了《杨之后》真的好烂！没搞懂看了个啥
+
 
 </div></div>
 
