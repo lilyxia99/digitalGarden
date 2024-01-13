@@ -1,10 +1,12 @@
 ---
-{"dg-publish":true,"permalink":"/learning-notes/tech-note/digital-garden/","tags":["tech-notes","web-app"],"created":"2024-01-12T23:12:17.329-05:00","updated":"2024-01-12T23:43:09.355-05:00"}
+{"dg-publish":true,"permalink":"/learning-notes/tech-note/digital-garden/","tags":["tech-notes","web-app"],"created":"2024-01-12T23:12:17.329-05:00","updated":"2024-01-12T23:54:49.012-05:00"}
 ---
 
-2024-01-12 23:17
+## 2024-01-12 23:17
 
-接下来需要做的是
+digital garden 使用的是[11ty](.dev)，会比gatsby 快而且语法上应该简单一点（不是用的react，虽然 at this point React可能才是我更熟悉的）
+
+接下来需要做的是：
 
 - [x] 如果确定使用digital garden，可以考虑设置obsidian git, 这样更容易自动 push 和 pull（后来发现digital garden 有一套自己的做法，好，就先不搞你了）
 - [ ] 写一个单独的node app 可以做react flow, 然后上传到GitHub上
